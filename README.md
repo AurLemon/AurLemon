@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👏🥵 Web 全栈学生，MediaWiki、MediaWiki 爱好者。
+👏🥵 Web 全栈学生，Minecraft、MediaWiki 爱好者。
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js%203-4FC08D?logo=vue.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![C](https://img.shields.io/badge/C-green?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)
 
