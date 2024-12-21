@@ -2,6 +2,8 @@
 
 👏🥵 Web 全栈学生，Minecraft、MediaWiki 爱好者、某不知名 MC 服务器服主 + 站长。又菜又爱写，希望自己能始终保持思考和学习的能力，学无止境🤝。非常欢迎同好来找我聊天❤。
 
+~~（最近学校里期末了有点忙 2025.1.10以后一切都会好起来的👍）~~
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js%203-4FC08D?logo=vue.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![C](https://img.shields.io/badge/C-green?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)
 
 - 🔭 正在学习的：Vue、Node、Tauri、C++ 算法。
