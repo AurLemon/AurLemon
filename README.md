@@ -1,4 +1,4 @@
-## 做一个好的螺丝钉🤝
+## 做一颗好的螺丝钉🤝
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js%203-4FC08D?logo=vue.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![C](https://img.shields.io/badge/C-green?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-green?logo=cplusplus&logoColor=white)
 
 镇魔回事啊，镇魔会有人在大专学计算机啊？我说没办法啊，我毕业可就真的拧螺丝了👍（雾）。
