@@ -1,5 +1,5 @@
 ## 做个没那么烂的螺丝钉就行 :)
-![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Rust-B7410E?logo=rust\&logoColor=white\&style=for-the-badge)
+![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Rust-B7410E?logo=rust\&logoColor=white\&style=for-the-badge) ![](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=for-the-badge)
 
 在某大专当混子明年专升本嘻嘻，Node.js 选手严肃学习中。技术方向是 Web 全栈，Minecraft 玩家、某 [MC 服务器](https://wiki.hydcraft.cn/)服主、站长。感觉自己是 DevOpser。这上面四个 Badge 是随便放的，因为碰的次数相对多一点。
 
