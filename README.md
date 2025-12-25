@@ -7,4 +7,4 @@
 
 欢迎同好交流，欢迎参观[个人网站](https://aurlemon.top)和[在园子的博客](https://cnblogs.com/AurLemon)或者是这个[平平无奇组织](https://github.com/Hydroline)。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurLemon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AurLemon)](https://github.com/anuraghazra/github-readme-stats)
