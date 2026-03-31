@@ -1,7 +1,7 @@
 ## 🫠🥹
 ![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 
-AurLemon here. 全栈开发者，常用语言是 TypeScript，主力 Agent 是 CodeX。
+👏 AurLemon here. 全栈开发者，常用语言是 TypeScript，主力 Agent 是 CodeX。
 
 一般别人叫我**柠檬**🍋，[这](https://aurlemon.top)是我的赛博自留地。
 
