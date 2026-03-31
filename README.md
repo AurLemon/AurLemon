@@ -11,6 +11,6 @@ AurLemon here. 全栈开发者，常用语言是 TypeScript，主力 Agent 是 C
 
 欢迎交流项目。也欢迎单纯想认识一下的 Coder，可以直接给我发个 Email（其它联系方式也可以）联系我，*一般* 3 天内会回复。
 
-中文母语者，外语水平 CET 4 & JLPT N4。
+中文母语者，外语水平 CET 4 (~510) & JLPT N4。
 
 [![AurLemon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AurLemon)](https://github.com/anuraghazra/github-readme-stats)
