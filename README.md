@@ -1,10 +1,14 @@
-## 做个没那么烂的螺丝钉就行 :)
-![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge) ![](https://img.shields.io/badge/Rust-B7410E?logo=rust\&logoColor=white\&style=for-the-badge) ![](https://img.shields.io/badge/Python-green?logo=python&logoColor=white&style=for-the-badge)
+## 🫠🥹
+![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 
-在某大专当混子明年专升本嘻嘻，Node.js 选手严肃学习中。技术方向是 Web 全栈，Minecraft 玩家、某 [MC 服务器](https://wiki.hydcraft.cn/)服主、站长。感觉自己是 DevOpser。这上面四个 Badge 是随便放的，因为碰的次数相对多一点。
+AurLemon here. 全栈开发者，常用语言是 TypeScript。
 
-最近比较沉迷 Vibe Coding，贷款上班这一块，~~已经在 Augment Code + Trae 上花了不少米了~~ 已投奔 CodeX + Copilot。
+一般别人叫我**柠檬**🍋，[这](https://aurlemon.top)是我的赛博自留地。
 
-欢迎同好交流，欢迎参观[个人网站](https://aurlemon.top)和[在园子的博客](https://cnblogs.com/AurLemon)或者是这个[平平无奇组织](https://github.com/Hydroline)。
+我最先接触的领域是前端，后续才扩展到后端和 DevOps 方面。最近在尝试 ESP32S3 的硬件设备，作为毕设。
 
-[![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AurLemon)](https://github.com/anuraghazra/github-readme-stats)
+欢迎交流项目或是单纯想认识一下的 Coder。可以直接给我发个 Email 或是别的联系方式，*一般* 3 天内会回复。
+
+中文母语者，外语水平 CET 4 & JLPT N4。
+
+[![AurLemon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AurLemon)](https://github.com/anuraghazra/github-readme-stats)
