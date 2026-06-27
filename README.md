@@ -1,5 +1,5 @@
 ## 🫠🥹
-![](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) [![GitHub Roast 评分徽章](https://githubroast.icu/api/badge/AurLemon)](https://githubroast.icu/u/AurLemon)
 
 👏 AurLemon here. 全栈开发者，常用语言是 TypeScript。
 
@@ -12,5 +12,7 @@
 欢迎交流项目。也欢迎单纯想认识一下的 Coder，可以直接给我发个 Email（其它联系方式也可以）联系我，*一般* 3 天内会回复。
 
 中文母语者，外语水平 CET 4 (~510) & JLPT N4。
+
+<a href="https://githubroast.icu/u/AurLemon"><img src="https://githubroast.icu/api/card/AurLemon" alt="GitHub Roast" width="450" /></a>
 
 [![AurLemon's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=AurLemon)](https://github.com/anuraghazra/github-readme-stats)
